@@ -1,0 +1,6 @@
+The Stack Overflow database is over 60 terabytes in size — just to store Q&A from developers.
+
+The world’s first computer password was created in 1961 at MIT… and was leaked the same year 😅.
+
+Linux kernel has over 30 million lines of code, and it grows by ~10,000 lines every day!
+

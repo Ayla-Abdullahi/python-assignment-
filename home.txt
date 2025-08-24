@@ -1,0 +1,3 @@
+Python has an Easter egg — type import this in a Python shell, and you’ll see “The Zen of Python”, 19 guiding principles of Python philosophy.
+
+In JavaScript, [] + [] equals "" (an empty string), but [] + {} equals "[object Object]". Mind-bending! 🤯
